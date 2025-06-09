@@ -8,9 +8,6 @@ map_ll <- st_transform(map, "+proj=longlat +ellps=WGS84 +datum=WGS84")
 # ui object
 ui <- fluidPage(
   titlePanel(p("Spatial app", style = "color:#3474A7")),
-  mainPanel(
-    leafletOutput(outputId = "map", height = "100vh"),
-  )
 )
 
 ui <- fluidPage(leafletOutput("map", height = "100vh"))
