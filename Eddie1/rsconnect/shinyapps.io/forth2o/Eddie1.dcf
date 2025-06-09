@@ -1,0 +1,13 @@
+name: Eddie1
+title: Eddie1
+username: forth2o
+account: forth2o
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14901454
+bundleId: 10419842
+url: https://forth2o.shinyapps.io/Eddie1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app1.R|Census_2022_data_oa_uv101b.dbf|Census_2022_data_oa_uv101b.prj|Census_2022_data_oa_uv101b.shp|Census_2022_data_oa_uv101b.shx
